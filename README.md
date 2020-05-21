@@ -3,7 +3,7 @@ A project implementation of Hadoop Map Reduce using Java and Python Programming 
 Kindly Read the document for proceeding with the execution of codes
 
            Note: 
-1.	There are 5 folders made which are as follows
+There are 5 folders made which are as follows
 1. Java Codes 
 2. Python Codes, 
 3. Datasets-used, 
